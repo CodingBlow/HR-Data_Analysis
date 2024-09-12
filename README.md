@@ -39,4 +39,4 @@ Your feedback is valuable! Please share your thoughts, suggestions, or feature r
 ## **Links**
 
 - **GitHub Repository:** [Insert your GitHub link here]
-- **Live Dashboard:** [Insert your dashboard link here]
+- **Live Dashboard:** [[Insert your dashboard link here](https://app.powerbi.com/view?r=eyJrIjoiNWZmOTdhMzktN2MyMS00NTNkLWEzYmUtM2FlZjUxN2FjNTZhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)]
